@@ -8,6 +8,7 @@ public class GE {
 		
 		System.out.println("Soy " + nombre +" y apellido " + apellido);
 		System.out.println("Modificacion desde Master");
+		System.out.println("Modificacion desde Develop");
 	}
 
 }
