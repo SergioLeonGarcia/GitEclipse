@@ -7,7 +7,7 @@ public class GE {
 		String apellido = "León";
 		
 		System.out.println("Soy " + nombre +" y apellido " + apellido);
-	
+		System.out.println("Modificacion desde Master");
 	}
 
 }
